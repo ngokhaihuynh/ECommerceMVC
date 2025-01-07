@@ -286,3 +286,4 @@ G:\ECommerceMVC\ECommerceMVC\obj\Debug\net8.0\refint\ECommerceMVC.dll
 G:\ECommerceMVC\ECommerceMVC\obj\Debug\net8.0\ECommerceMVC.pdb
 G:\ECommerceMVC\ECommerceMVC\obj\Debug\net8.0\ECommerceMVC.genruntimeconfig.cache
 G:\ECommerceMVC\ECommerceMVC\obj\Debug\net8.0\ref\ECommerceMVC.dll
+G:\ECommerceMVC\ECommerceMVC\obj\Debug\net8.0\ECommerceMVC.sourcelink.json

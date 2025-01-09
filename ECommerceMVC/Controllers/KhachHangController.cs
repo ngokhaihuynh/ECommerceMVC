@@ -141,6 +141,12 @@ namespace ECommerceMVC.Controllers
         {
             return View();
         }
+        [Authorize]
+        public async Task<IActionResult> DangXuat()
+        {
+            await HttpContext.SignOutAsync();
+            return Redirect("/");
+        }
     }
 }
 

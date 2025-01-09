@@ -1,7 +1,10 @@
-﻿
-@{
-    ViewData["Title"] = "Profile";
+﻿@{
+	ViewData["Title"] = "Profile";
 }
 
+<div style="margin-top:150px"></div>
 <h1>Profile</h1>
-<h2>Welcome @Context.User.Identity.Name</h2>
+<div class="container">
+	<h2>Welcome @Context.User.Identity.Name</h2>
+	<a asp-action="DangXuat">Đăng xuất</a>
+</div>

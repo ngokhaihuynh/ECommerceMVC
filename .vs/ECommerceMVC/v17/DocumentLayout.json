@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "G:\\ECommerceMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,32 +19,8 @@
       "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,32 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerceMVC\\appsettings.json",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\appsettings.json",
-              "RelativeToolTip": "ECommerceMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-09T13:35:56.444Z",
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\KhachHangController.cs",
+              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "ECommerceMVC\\Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAA0wJUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:55:30.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
               "RelativeDocumentMoniker": "ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
               "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
               "RelativeToolTip": "ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-09T12:46:48.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Program.cs",
               "RelativeDocumentMoniker": "ECommerceMVC\\Program.cs",
@@ -92,8 +68,7 @@
               "RelativeToolTip": "ECommerceMVC\\Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T12:39:56.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T12:39:56.86Z"
             },
             {
               "$type": "Document",
@@ -105,8 +80,7 @@
               "RelativeToolTip": "ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T12:23:29.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T12:23:29.959Z"
             },
             {
               "$type": "Document",
@@ -118,86 +92,7 @@
               "RelativeToolTip": "ECommerceMVC\\Views\\KhachHang\\DangNhap.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAcwA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T12:18:23.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "KhachHangController.cs",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Controllers\\KhachHangController.cs",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\KhachHangController.cs",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Controllers\\KhachHangController.cs",
-              "RelativeToolTip": "ECommerceMVC\\Controllers\\KhachHangController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAQwEsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T14:51:49.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\ViewModels\\LoginVM.cs",
-              "RelativeDocumentMoniker": "ECommerceMVC\\ViewModels\\LoginVM.cs",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\ViewModels\\LoginVM.cs",
-              "RelativeToolTip": "ECommerceMVC\\ViewModels\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T12:02:07.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DangKy.cshtml",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\DangKy.cshtml",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\KhachHang\\DangKy.cshtml",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\DangKy.cshtml",
-              "RelativeToolTip": "ECommerceMVC\\Views\\KhachHang\\DangKy.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T14:53:21.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "KhachHang.cs",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Data\\KhachHang.cs",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Data\\KhachHang.cs",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Data\\KhachHang.cs",
-              "RelativeToolTip": "ECommerceMVC\\Data\\KhachHang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T14:43:24.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\ViewModels\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "ECommerceMVC\\ViewModels\\RegisterVM.cs",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\ViewModels\\RegisterVM.cs",
-              "RelativeToolTip": "ECommerceMVC\\ViewModels\\RegisterVM.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T14:42:53.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "chackout.html",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\wwwroot\\chackout.html",
-              "RelativeDocumentMoniker": "ECommerceMVC\\wwwroot\\chackout.html",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\wwwroot\\chackout.html",
-              "RelativeToolTip": "ECommerceMVC\\wwwroot\\chackout.html",
-              "ViewState": "AgIAACYBAAAAAAAAAIBJwEEBAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-08T14:42:08.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T12:18:23.834Z"
             }
           ]
         }

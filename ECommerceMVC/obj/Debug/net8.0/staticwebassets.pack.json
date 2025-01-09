@@ -341,6 +341,10 @@
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Penguins.jpg"
     },
     {
+      "Id": "G:\\ECommerceMVC\\ECommerceMVC\\wwwroot\\Hinh\\KhachHang\\ShellGrid.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\ShellGrid.jpg"
+    },
+    {
       "Id": "G:\\ECommerceMVC\\ECommerceMVC\\wwwroot\\Hinh\\KhachHang\\android_300200.png",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\android_300200.png"
     },

@@ -1,5 +1,6 @@
 ﻿using ECommerceMVC.Data;
 using ECommerceMVC.Helpers;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,6 +28,14 @@ builder.Services.AddSession(options =>
 // định nghĩa AutoMapper
 builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
+// Đăng ký dịch vụ đăng nhập
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/KhachHang/DangNhap";
+        options.AccessDeniedPath = "/AccessDenied";
+    });
+
 var app = builder.Build();
 
 
@@ -45,6 +54,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 app.UseSession();
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

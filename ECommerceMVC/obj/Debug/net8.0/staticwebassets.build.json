@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pyIU+2M/bPBH/qyPUCmhCNtLbC+X5oTDcgzgLk+4vIs=",
+  "Hash": "hz5cFiA1wVQdhcLVmiNGH8RNK3hZXafyDt2iS1oc/GE=",
   "Source": "ECommerceMVC",
   "BasePath": "_content/ECommerceMVC",
   "Mode": "Default",
@@ -5769,6 +5769,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\Penguins.jpg"
+    },
+    {
+      "Identity": "G:\\ECommerceMVC\\ECommerceMVC\\wwwroot\\Hinh\\KhachHang\\ShellGrid.jpg",
+      "SourceId": "ECommerceMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\ECommerceMVC\\ECommerceMVC\\wwwroot\\",
+      "BasePath": "_content/ECommerceMVC",
+      "RelativePath": "Hinh/KhachHang/ShellGrid#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6w69kh0rn0",
+      "Integrity": "JsPjX7KYL8pLJVL6+8sDnw3MTqq3BN1OtIhzmBrWwCg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\ShellGrid.jpg"
     },
     {
       "Identity": "G:\\ECommerceMVC\\ECommerceMVC\\wwwroot\\Hinh\\KhachHang\\woman.jpg",
@@ -33130,6 +33151,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-flvdAjts8h7+QqjskLwZk/yFOYDUtWRojlrC0oxkIjw="
+        }
+      ]
+    },
+    {
+      "Route": "Hinh/KhachHang/ShellGrid.6w69kh0rn0.jpg",
+      "AssetFile": "G:\\ECommerceMVC\\ECommerceMVC\\wwwroot\\Hinh\\KhachHang\\ShellGrid.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "617276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JsPjX7KYL8pLJVL6+8sDnw3MTqq3BN1OtIhzmBrWwCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6w69kh0rn0"
+        },
+        {
+          "Name": "label",
+          "Value": "Hinh/KhachHang/ShellGrid.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JsPjX7KYL8pLJVL6+8sDnw3MTqq3BN1OtIhzmBrWwCg="
+        }
+      ]
+    },
+    {
+      "Route": "Hinh/KhachHang/ShellGrid.jpg",
+      "AssetFile": "G:\\ECommerceMVC\\ECommerceMVC\\wwwroot\\Hinh\\KhachHang\\ShellGrid.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "617276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JsPjX7KYL8pLJVL6+8sDnw3MTqq3BN1OtIhzmBrWwCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JsPjX7KYL8pLJVL6+8sDnw3MTqq3BN1OtIhzmBrWwCg="
         }
       ]
     },

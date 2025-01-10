@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "G:\\ECommerceMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|g:\\ecommercemvc\\ecommercemvc\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECBB377-3428-4B7C-ACA7-F711DEE8300C}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,64 +39,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KhachHangController.cs",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Controllers\\KhachHangController.cs",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\KhachHangController.cs",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Controllers\\KhachHangController.cs",
-              "RelativeToolTip": "ECommerceMVC\\Controllers\\KhachHangController.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAA0wJUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T13:55:30.653Z",
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\Cart\\Success.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Cart\\Success.cshtml",
+              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\Cart\\Success.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Cart\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T15:11:36.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
-              "RelativeToolTip": "ECommerceMVC\\Views\\KhachHang\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T12:46:48.387Z",
+              "DocumentIndex": 5,
+              "Title": "MySetting.cs",
+              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Helpers\\MySetting.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Helpers\\MySetting.cs",
+              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Helpers\\MySetting.cs",
+              "RelativeToolTip": "ECommerceMVC\\Helpers\\MySetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:20:44.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Program.cs",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Program.cs",
-              "RelativeToolTip": "ECommerceMVC\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Title": "CheckoutVM.cs",
+              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\ViewModels\\CheckoutVM.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\ViewModels\\CheckoutVM.cs",
+              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\ViewModels\\CheckoutVM.cs",
+              "RelativeToolTip": "ECommerceMVC\\ViewModels\\CheckoutVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T12:39:56.86Z"
+              "WhenOpened": "2025-01-10T14:15:57.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_LayoutCustomer.cshtml",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "RelativeToolTip": "ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAtAAAAAAAAAA==",
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwE0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T12:23:29.959Z"
+              "WhenOpened": "2025-01-10T13:45:11.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DangNhap.cshtml",
-              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\DangNhap.cshtml",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\KhachHang\\DangNhap.cshtml",
-              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\KhachHang\\DangNhap.cshtml",
-              "RelativeToolTip": "ECommerceMVC\\Views\\KhachHang\\DangNhap.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA8AAAAXAAAAAAAAAA==",
+              "Title": "CartController.cs",
+              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\CartController.cs",
+              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ECommerceMVC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:43:10.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "G:\\ECommerceMVC\\ECommerceMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T12:18:23.834Z"
+              "WhenOpened": "2025-01-10T13:40:48.1Z",
+              "EditorCaption": ""
             }
           ]
         }
